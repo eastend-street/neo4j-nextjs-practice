@@ -4,6 +4,12 @@ This is a sample Next.js project used to test Neo4j integration.
 
 By leveraging Neo4j, we can represent the codebase as a graph. This allows AI-powered editors like Cursor to better understand the structure of the codebase, enabling easier and more intelligent refactoring.
 
+# ✅ Prerequisites
+You have downloaded neo4j and you have run a neo4j database locally.
+
+https://neo4j.com/download/
+
+
 # 🚀 Getting Started
 Start the development server:
 
