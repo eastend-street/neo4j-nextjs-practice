@@ -22,9 +22,14 @@ Run graph.js to insert file dependency data into your local Neo4j database and g
 
 Before running, update the password in graph.js to match your local Neo4j database credentials.
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/cd80e3c1-257d-4b03-956e-48bfe668660a" />
+
 ```bash
 node graph.js
 ```
+
+
+
 
 # 📊 How to View the Graph
 To visualize the graph in the Neo4j browser, run the following Cypher query:
