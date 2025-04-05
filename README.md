@@ -40,3 +40,7 @@ RETURN a, b
 You can also inspect the graph data in JSON format (code-graph.json):  
 
 <img width="1078" alt="Graph JSON Output" src="https://github.com/user-attachments/assets/df0958b1-8fa0-4a03-8c73-b8101b23c938" />
+
+
+# ✍️ Author
+https://github.com/eastend-street
