@@ -1,0 +1,54 @@
+[
+  {
+    "from": "app/layout.tsx",
+    "to": "app/context/RecipeContext.tsx"
+  },
+  {
+    "from": "app/context/RecipeContext.tsx",
+    "to": "app/types/recipe.ts"
+  },
+  {
+    "from": "app/page.tsx",
+    "to": "app/context/RecipeContext.tsx"
+  },
+  {
+    "from": "app/page.tsx",
+    "to": "app/components/RecipeCard.tsx"
+  },
+  {
+    "from": "app/components/RecipeCard.tsx",
+    "to": "app/types/recipe.ts"
+  },
+  {
+    "from": "app/components/RecipeForm.tsx",
+    "to": "app/types/recipe.ts"
+  },
+  {
+    "from": "app/recipes/[id]/page.tsx",
+    "to": "app/context/RecipeContext.tsx"
+  },
+  {
+    "from": "app/recipes/create/page.tsx",
+    "to": "app/context/RecipeContext.tsx"
+  },
+  {
+    "from": "app/recipes/create/page.tsx",
+    "to": "app/types/recipe.ts"
+  },
+  {
+    "from": "app/recipes/create/page.tsx",
+    "to": "app/components/RecipeForm.tsx"
+  },
+  {
+    "from": "app/recipes/edit/[id]/page.tsx",
+    "to": "app/context/RecipeContext.tsx"
+  },
+  {
+    "from": "app/recipes/edit/[id]/page.tsx",
+    "to": "app/types/recipe.ts"
+  },
+  {
+    "from": "app/recipes/edit/[id]/page.tsx",
+    "to": "app/components/RecipeForm.tsx"
+  }
+]
